@@ -13,7 +13,7 @@ const BlogDesc = new Schema({
     type: String,
     require: true
   },
-  description: {
+  path: {
     type: String,
     require: true
   },
